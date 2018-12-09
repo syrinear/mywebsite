@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Kernels"
-    url = "/about/"    
+    url = "https://www.kaggle.com/syrinearouri/berkson-measurement-error-a-bayesian-approach"    
     
 [[menu.main]]
     name = "GitHub"
