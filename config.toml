@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "CV"
-    url = "/about/"
+    url = "https://github.com/syrinear/mywebsite/blob/master/Curriculum-Vitae_Syrine_Arouri.pdf"
 
 
 [[menu.main]]
@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Kernels"
-    url = "https://www.kaggle.com/syrinearouri/berkson-measurement-error-a-bayesian-approach"    
+    url = "https://www.kaggle.com/syrinearouri/berkson-measurement-error-a-bayesian-approachè"    
     
 [[menu.main]]
     name = "GitHub"
